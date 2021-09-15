@@ -36,13 +36,13 @@ In this project you will design a GUI for the software project [`effmass`](https
 
 Difficulty = :star::star::star:
 
-### Project 4. A sign-up bot for RSdropinUK:
+### Project 4. Building a bot for RSdropinUK:
 
 As data volumes continue to grow, models and algorithms get more complex and research processes require increasingly advanced pipelines, more and more researchers will find themselves writing or working with software. [RSdropinUK](https://rsdropin.github.io/RSdropinUK/) aims to provide regular, informal, community-led sesssions where researchers and research software developers can come along to ask questions about technical problems or challenges, or to ask for general technical advice.
 
 To co-ordinate the drop-in sessions there are two groups of people to manage: participants who ask the questions, and volunteer experts who answer the questions. Many people end up acting in both roles, as we all experts in some things, and novices in others. Managing these two groups is currently quite a time-intensive process. Sign-up is via an online form, which we then reply to via email. Ideally we would have a system where volunteer experts can sign up in advance, advertising their skill-set, and participants sign-up in advance, with an outline of their problem. This process would be automated, requiring as little human intervention as possible, and the sign-up information for each session would be publically available.
 
-In this project you will work with the RS-dropin-UK organisers to design (on paper) an optimum workflow for expert and volunteer management. You will then use open source tools such as Github actions and Github pages to automate this process as far as is possible. For Github automation inspiration, see the editorial bot [Buffy](https://github.com/openjournals/buffy) which helps scientific journals ([JOSS](https://joss.theoj.org/) and [rOpenSci](https://ropensci.org/)) and conference proceedings ([JuliaCon](https://proceedings.juliacon.org/)),  manage submission reviews.
+In this project you will work with the RS-dropin-UK organisers to design (on paper) an optimum workflow for expert and volunteer management. You will then use open source tools such as Github actions and Github pages to automate this process as far as is possible. For Github automation inspiration, see the editorial bot [Buffy](https://github.com/openjournals/buffy) which helps scientific journals ([JOSS](https://joss.theoj.org/) and [rOpenSci](https://ropensci.org/)) and conference proceedings ([JuliaCon](https://proceedings.juliacon.org/)) manage submission reviews.
 
 Difficulty = :star::star::star::star:
 
