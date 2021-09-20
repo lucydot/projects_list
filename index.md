@@ -2,7 +2,7 @@
 
 ## A list of projects for undergraduate, postgraduate and summer students
 
-At the moment most of these projects are in the area of [Research Software Engineering](https://rse.ac.uk/what-is-an-rse/).  
+At the moment all of these projects are in the area of [Research Software Engineering](https://rse.ac.uk/what-is-an-rse/).  
 The projects are designed to have a real, tangible impact on the efficiency and impact of research conducted in our group.
 
 I've given a rough indication of how challenging each project is: ⭐ = straight-forward, :star::star::star::star::star: = can it even be done?
