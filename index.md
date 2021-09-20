@@ -50,7 +50,7 @@ Difficulty = :star::star::star::star:
 
 [Solcore](https://www.solcore.solar) was originally created as a heterogeneous aggregate of tools used by researchers as part of their work on high-efficiency photovoltaic devices (solar cells). Among Solcore’s unique features is the implementation of multiple models to simulate the electrical and optical properties of solar cells, including both traditional, well-established approaches and novel designs. This feature provides Solcore with an unprecedented capability that other photovoltaic solar cell software packages cannot match. 
 
-A key part of Solcore is the Poisson-drift-diffusion (PDD) solver - this is the only part of Solcore written in Fortran, is custom-made and is becoming increasingly difficult to maintain. 
+An important part of Solcore is the Poisson-drift-diffusion (PDD) solver - this is the only part of Solcore written in Fortran, is custom-made and is becoming increasingly difficult to maintain. 
 
 In this project you will undertake a major refactoring of the PDD solver in Solcore. You will make use of existing numerical packages written in Python (for example FiPy) to solve the underlying partial differential equations. If the project is successful, Solcore will be significantly easier to install and, as a result, will be accessible to a larger community of researchers.
 
