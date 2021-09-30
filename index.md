@@ -5,7 +5,7 @@
 At the moment all of these projects are in the area of [Research Software Engineering](https://rse.ac.uk/what-is-an-rse/).  
 The projects are designed to have a real, tangible impact on the efficiency and impact of research conducted in our group.
 
-I've given a rough indication of how challenging each project is: ⭐ = straight-forward, :star::star::star::star::star: = can it even be done?
+I've given a rough indication of how challenging each project is: ⭐ = straight-forward, ⭐⭐⭐⭐⭐ = can it even be done?
 However the difficulty will vary depending on your previous experience and skill-set, so do not take it _too_ literally. There is also scope to extend each project if you find you need an extra challenge!
 
 If you are looking for something based within the domains of materials science or physics please contact me directly.  
@@ -16,7 +16,7 @@ A combination of a Github README page and a documentation site (generated using 
 
 In this project you will design a workflow, possibly based on a tool such as Github actions, to remove this duplication of effort and save researcher time.
 
-Difficulty = :star::star:
+Difficulty = ⭐⭐
 
 ### Project 2. But who uses this software? Quantifying the impact of research software
 
@@ -26,7 +26,7 @@ As a concrete example, take the software project [`effmass`](https://github.com/
 
 In this project you will: i) research the current tools for quantifying the impact of research software; ii) identify the limitations/approximations inherent to each tool; iii) design a tool for calculating quantities (e.g download statistics) that more accurately reflect software impact.
 
-Difficulty = :star::star:
+Difficulty = ⭐⭐
 
 ### Project 3. Electrons for all: Developing a GUI for the `effmass` project
 
@@ -34,7 +34,7 @@ A graphical user interface (GUI) helps to reduce the learning curve for using so
 
 In this project you will design a GUI for the software project [`effmass`](https://github.com/lucydot/effmass), which calculates the effective mass of electrons from the output of quantum chemical simulations. The optimum GUI would be: multi-platform (Windows, MacOS, other unix-based systems), accessible (downloaded as a standalone executable) and robust (with automated testing for continuous integration with the release of new `effmass` versions).
 
-Difficulty = :star::star::star:
+Difficulty = ⭐⭐⭐
 
 ### Project 4. Building a bot for RSdropinUK:
 
@@ -44,7 +44,7 @@ To co-ordinate the drop-in sessions there are two groups of people to manage: pa
 
 In this project you will work with the RS-dropin-UK organisers to design (on paper) an optimum workflow for expert and volunteer management. You will then use open source tools such as Github actions and Github pages to automate this process as far as is possible. For Github automation inspiration, see the editorial bot [Buffy](https://github.com/openjournals/buffy) which helps scientific journals ([JOSS](https://joss.theoj.org/) and [rOpenSci](https://ropensci.org/)) and conference proceedings ([JuliaCon](https://proceedings.juliacon.org/)) manage submission reviews.
 
-Difficulty = :star::star::star::star:
+Difficulty = ⭐⭐⭐⭐
 
 ### Project 5. Implementing a Poisson-drift-diffusion solver for solar cells
 
@@ -54,5 +54,5 @@ An important part of Solcore is the Poisson-drift-diffusion (PDD) solver - this 
 
 In this project you will undertake a major refactoring of the PDD solver in Solcore. You will make use of existing numerical packages written in Python (for example FiPy) to solve the underlying partial differential equations. If the project is successful, Solcore will be significantly easier to install and, as a result, will be accessible to a larger community of researchers.
 
-Difficulty = :star::star::star::star::star:
+Difficulty = ⭐⭐⭐⭐⭐
 
