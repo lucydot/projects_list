@@ -2,15 +2,23 @@
 
 ## A list of projects for undergraduate, postgraduate and summer students
 
-At the moment all of these projects are in the area of [Research Software Engineering](https://rse.ac.uk/what-is-an-rse/).  
+At the moment the majority of these projects are in the area of [Research Software Engineering](https://rse.ac.uk/what-is-an-rse/), with a couple that use elements from materials science and/or physics.  
 The projects are designed to have a real, tangible impact on the efficiency and impact of research conducted in our group.
 
 I've given a rough indication of how challenging each project is: ⭐ = straight-forward, ⭐⭐⭐⭐⭐ = can it even be done?
 However the difficulty will vary depending on your previous experience and skill-set, so do not take it _too_ literally. There is also scope to extend each project if you find you need an extra challenge!
 
-If you are looking for something based within the domains of materials science or physics please contact me directly.  
+If you are looking for something based within the domains of materials science or physics please contact me directly. 
 
-### Project 1. Delete the duplication! Efficient documentation
+### Winning an OSSCAR
+
+The OSSCAR (Open Software Services for Classrooms and Research) platform is a collaborative environment targeted at enhancing awareness and adoption of best practises in Open Science and computational thinking, focusing on education and research. You can see more details here: https://www.osscar.org/.
+
+In this project you will use OSSCAR to develop a web application in the area of physics or materials science. The topic will be geared towards your interests, and will most likely be designed to cement your understanding of concepts covered during your undergraduate training. For example, you may like to develop a web app based on the phenomenon of quantum tunnelling or a web app for simulating heat diffusion. Successful projects will be submitted to the OSSCAR hub and, through this, will be disseminated across institutions worldwide.
+
+Difficulty = ⭐⭐
+
+### Delete the duplication! Efficient documentation
 
 A combination of a Github README page and a documentation site (generated using [Sphinx](https://www.sphinx-doc.org/en/master/) or similar) is very commonly used for documenting research software projects. This can lead to a duplication of effort, with the developer having to maintain / update each page separately even when there is significant crossover in content. For example, see where Installation instructions are duplicated in the README [here](https://github.com/lucydot/effmass#installation) and the documentation site [here](https://effmass.readthedocs.io/en/latest/Installation.html).
 
@@ -18,7 +26,7 @@ In this project you will design a workflow, possibly based on a tool such as Git
 
 Difficulty = ⭐⭐
 
-### Project 2. But who uses this software? Quantifying the impact of research software
+### But who uses this software? Quantifying the impact of research software
 
 It is increasingly common for academics to develop software for their research. Despite the time investment made, this effort is not commonly recognised and there are [open issues around software citation](https://www.software.ac.uk/how-cite-software). Other quantities for measuring impact  - such as the number of downloads via the from [Python package index stats](https://packaging.python.org/guides/analyzing-pypi-package-downloads/) - are an inaccurate reflection of the number of users. The number is inflated due to installs for continuous integration, and through use of download mirrors, amongst other factors.
 
@@ -28,7 +36,7 @@ In this project you will: i) research the current tools for quantifying the impa
 
 Difficulty = ⭐⭐
 
-### Project 3. Electrons for all: Developing a GUI for the `effmass` project
+### Electrons for all: Developing a GUI for the `effmass` project
 
 A graphical user interface (GUI) helps to reduce the learning curve for using software, increases the base of potential users and can ultimately increase citations and impact. A well-designed GUI can perform validation and increase the robustness and reproducibility of the results. 
 
@@ -36,7 +44,7 @@ In this project you will design a GUI for the software project [`effmass`](https
 
 Difficulty = ⭐⭐⭐
 
-### Project 4. Building a bot for RSdropinUK:
+### Building a bot for RSdropinUK:
 
 As data volumes continue to grow, models and algorithms get more complex and research processes require increasingly advanced pipelines, more and more researchers will find themselves writing or working with software. [RSdropinUK](https://rsdropin.github.io/RSdropinUK/) aims to provide regular, informal, community-led sesssions where researchers and research software developers can come along to ask questions about technical problems or challenges, or to ask for general technical advice.
 
@@ -46,7 +54,7 @@ In this project you will work with the RS-dropin-UK organisers to design (on pap
 
 Difficulty = ⭐⭐⭐⭐
 
-### Project 5. Implementing a Poisson-drift-diffusion solver for solar cells
+### Implementing a Poisson-drift-diffusion solver for solar cells
 
 [Solcore](https://www.solcore.solar) was originally created as a heterogeneous aggregate of tools used by researchers as part of their work on high-efficiency photovoltaic devices (solar cells). Among Solcore’s unique features is the implementation of multiple models to simulate the electrical and optical properties of solar cells, including both traditional, well-established approaches and novel designs. This feature provides Solcore with an unprecedented capability that other photovoltaic solar cell software packages cannot match. 
 
