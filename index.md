@@ -8,7 +8,7 @@ The projects are designed to have a real, tangible impact on the efficiency and 
 I've given a rough indication of how challenging each project is: ⭐ = straight-forward, ⭐⭐⭐⭐⭐ = can it even be done?
 However the difficulty will vary depending on your previous experience and skill-set, so do not take it _too_ literally. There is also scope to extend each project if you find you need an extra challenge!
 
-If you are looking for something based within the domains of materials science or physics please contact me directly. I work in the area of [solid state physics](https://github.com/lucydot/projects_list/solid-state-phys).
+If you are looking for something based within the domains of materials science or physics please contact me directly. I work in the area of [solid state physics](https://lucydot.github.io/projects_list/solid-state-phys).
 
 ### Winning an OSSCAR
 
