@@ -12,3 +12,9 @@ To learn more, I'd highly recommend reading this article from the Guardian: http
 
 To understand some of the key topics that are exciting scientists working in this field, take a look at the various "condensed matter" news items listed in Phys.org: https://phys.org/tags/condensed+matter+physics/
 
+Other interesting articles:
+- https://www.forbes.com/sites/quora/2016/08/11/the-joy-of-condensed-matter-physics/
+- https://physicstoday.scitation.org/doi/10.1063/PT.3.4110
+- https://condensedconcepts.blogspot.com/2019/01/why-is-condensed-matter-physics.html
+- https://www.intechopen.com/chapters/71674
+
