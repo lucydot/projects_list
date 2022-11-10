@@ -17,4 +17,5 @@ Other interesting articles:
 - https://physicstoday.scitation.org/doi/10.1063/PT.3.4110
 - https://condensedconcepts.blogspot.com/2019/01/why-is-condensed-matter-physics.html
 - https://www.intechopen.com/chapters/71674
+- https://johncarlosbaez.wordpress.com/2021/03/24/the-joy-of-condensed-matter/
 
