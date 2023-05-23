@@ -1,5 +1,3 @@
-# Projects List
-
 ## A list of projects for undergraduate, postgraduate and summer students
 
 At the moment the majority of these projects are in the area of [Research Software Engineering](https://rse.ac.uk/what-is-an-rse/), with a couple that use elements from materials science and/or physics.  
