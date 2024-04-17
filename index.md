@@ -1,12 +1,32 @@
 ## A list of projects for undergraduate, postgraduate and summer students
 
-At the moment the majority of these projects are in the area of [Research Software Engineering](https://rse.ac.uk/what-is-an-rse/), with a couple that use elements from materials science and/or physics.  
-The projects are designed to have a real, tangible impact on the efficiency and impact of research conducted in our group.
+These projects are designed to have a real, tangible impact on the research conducted in our group. They are flexible, and the project list is incomplete - so if you want to do something related, but not listed, please just get in contact with me.
+
+## Projects based around *ab-initio* Materials Modelling
+
+Ab-initio materials modelling is an exciting area of science which combines solid state physics, quantum chemistry and computer simulations. Ab-initio means "from the beginning" or "from first-principles": the idea being that simulations of electrons and atoms within a material are ran with little experimental input, using theories derived from quantum mechanics.
+
+For more on this area of work, please see my short description of [solid state physics](https://lucydot.github.io/projects_list/solid-state-phys).
+
+### Developing a machine learning model for zirconium sulfide
+
+A recent development in our group is using machine learning models to predict the behaviour (vibrations) of materials across a range of temperatures. This allows us to accurately predict, without any experimental input, how a material might perform in the lab or in a working device. 
+Zirconium Sulfide (ZrS2) is a crystalline compound used to form photovoltaic (solar cell) materials. In this project you will use a [state-of-the-art computational framework](https://calorine.materialsmodeling.org/) to develop a machine learning model which describes the finite-temperature vibrations of ZrS2. A successful model will ultimately allow us to predict the temperatures at which related materials are stable or degrade.
+
+### Quantum Chemical model for mixed chalcogenide perovskites
+
+Our [recent research](https://pubs.acs.org/doi/10.1021/acsaem.3c03208) shows that BaZrS3 is a promising material for photovoltaic applications. A key material property for solar cell applications is the band gap, which can be tuned by mixing selenium onto the sulfur site, forming BaZr(S,Se)3. In this project you will use the Quantum Chemical method Density Functional Theory and supercomputing to model the properties of BaZr(S,Se)3 from first-principles. This will form an important first step towards continued experimental synthesis and characterisation.
+
+### High-throughput screening for anharmonic materials
+
+The [Materials Project](https://next-gen.materialsproject.org/materials) is a web-based database containing quantum chemical information on known and predicted materials, as well as powerful analysis tools to inspire and design novel materials. In this project you will use the [Materials Project API](https://next-gen.materialsproject.org/api) to screen for materials which display strong anharmonicity through a large [three-phonon phase space](https://www.nature.com/articles/s41467-021-23618-7). You will analyse how these anharmonic vibrations correlate with other material properties, such as symmetry or chemical composition. This will provide useful insight into where the commonly used harmonic model breaks down, and may help new identify materials for thermoelectric applications, where anharmonicity is beneficial.
+
+## Projects based around Research Software Engineering 
+
+[Research Software Engineering](https://rse.ac.uk/what-is-an-rse/) is a quickly growing discipline and emerging career route. It is centred around developing and maintaining software that enables research across a range of domains. The projects listed below are geared towards our work in materials modelling, but do not necessarilly require domain-specific expertise.
 
 I've given a rough indication of how challenging each project is: ⭐ = straight-forward, ⭐⭐⭐⭐⭐ = can it even be done?
 However the difficulty will vary depending on your previous experience and skill-set, so do not take it _too_ literally. There is also scope to extend each project if you find you need an extra challenge!
-
-If you are looking for something based within the domains of materials science or physics please contact me directly. I work in the area of [solid state physics](https://lucydot.github.io/projects_list/solid-state-phys).
 
 ### Winning an OSSCAR
 
