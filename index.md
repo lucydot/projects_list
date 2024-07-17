@@ -2,11 +2,30 @@
 
 These projects are designed to have a real, tangible impact on the research conducted in our group. They are flexible, and the project list is incomplete - so if you want to do something related, but not listed, please just get in contact with me.
 
-## Projects based around *ab-initio* Materials Modelling
+## Projects based around *ab-initio* Materials Modelling, Data and/or Machine Learning
 
-Ab-initio materials modelling is an exciting area of science which combines solid state physics, quantum chemistry and computer simulations. Ab-initio means "from the beginning" or "from first-principles": the idea being that simulations of electrons and atoms within a material are ran with little experimental input, using theories derived from quantum mechanics.
+Ab-initio materials modelling is an exciting area of science which combines solid state physics, quantum chemistry and computer simulations. Ab-initio means "from the beginning" or "from first-principles": the idea being that simulations of electrons and atoms within a material are ran with little experimental input, using theories derived from quantum mechanics. An increasingly popular approach is to use techniques from data science to probe the existing ab-initio data hosted on large databases. Linked also to this is using Machine Learning to model materials with the accuracy of ab-initio simulations, but at lower computational cost.
 
 For more on this area of work, please see my short description of [solid state physics](https://lucydot.github.io/projects_list/solid-state-phys).
+
+### Singing Materials: Phonon sonification
+
+**A phonon** is a quantum mechanical particle of heat. Phonons are used to describe the vibrations of a crystalline material. These vibrations are important because they affect a whole host of material properties, like electrical conductivity. **Sonification** is the use of non-speech audio to convey information. A well-known scientific example is a geiger counter which produces an audible click when it detects an ionisation event. Sonification can also be used creatively as a tool for musical composition.
+
+In this project you will use cutting-edge tools from the [Audio Universe](https://www.audiouniverse.org/) project to explore sonification of phonon data. You will work alongside an active research team based across Northumbria and Newcastle University, identifying how best to communicate these quantum vibrations either as a tool for teaching or composition.
+
+### Do we need to use consistent exchange-correlation functionals?
+
+Exchange-correlation functionals are an incredibly important aspect of Density Functional Theory (DFT) as they determine the accuracy of our predictions. A common strategy when using DFT is to predict the atomic structure of a material using a "cheap" functional, followed by a prediction of electronic structure with an "expensive" functional. However it is not well understood when this approach is valid. In this project you will start to explore this question using Density Functional Theory with various exchange-correlation functionals. You will monitor how predicted band gaps vary with each approach, with a focus on identifying chemical trends. To do so you will compare results across the oxide, halide and sulfide perovskites.
+
+### Under Pressure: identifying the chemical trends for internal pressure
+
+A material expands as it is heated up.
+The internal pressure of a material corresponds to sensitivity of free energy to volume expansion. In a perfect gas the internal pressure is zero: the free energy is independent of volume.  At the other extreme, carbon in the diamond has such a large internal pressure that it can contain [space water from millions of years ago](https://space.stackexchange.com/questions/18374/what-forms-of-water-ice-have-been-observed-and-verified-in-the-solar-system/33570#33570). Whereas carbon in the graphite structure is somewhere in this middle, with a free energy which is more weakly dependent on volume expansion. In this project you will use Density Functional Theory to quantify the internal pressure of a range of materials.  You will also explore how internal pressure varies with material chemistry. To do so you will compare results for the oxide, iodide and sulfide perovskites.
+
+### Data Science meets Materials Science: exploring the relationship between bond length, atomic mass and phonon frequency
+
+The [Materials Project](https://next-gen.materialsproject.org/materials) is a web-based database containing quantum chemical information on known and predicted materials, as well as powerful analysis tools to inspire and design novel materials. In this project you will use the [Materials Project API](https://next-gen.materialsproject.org/api) to determine the relationship between bond length, atomic mass and phonon frequency. Standard harmonic models would indicate that there is a simple relationship between these three values, but this relationship remains largely unexplored, with only [preliminary work available](https://www.nature.com/articles/sdata201865). Extensions to machine learning model development is also possible, and would allow extrapolation to material data that has not yet been collected.
 
 ### Developing a machine learning model for zirconium sulfide
 
